@@ -9,3 +9,4 @@ wget -qO- https://raw.githubusercontent.com/Itai-Nelken/my-apps-repo/main/add-re
 
 - hello-world
 - count100
+- qemu2deb
