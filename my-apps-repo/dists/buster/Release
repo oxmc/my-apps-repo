@@ -1,0 +1,20 @@
+Origin: Itai-Nelken
+Label: Itai-Nelken Github
+Suite: stable
+Codename: buster
+Date: Mon, 08 Feb 2021 21:41:16 UTC
+Architectures: armhf
+Components: main
+Description: my apps and programs.
+MD5Sum:
+ 604361bff62bb67b539eb4de8a0dea7a 877 main/binary-armhf/Packages
+ ed846310d8b95d4b7bc8fa184a88b09f 486 main/binary-armhf/Packages.gz
+ 8d7e03c5375d805ab349832a4e7e5404 133 main/binary-armhf/Release
+SHA1:
+ a8847eee1b143393e733e30268f5e8f8f6daf54d 877 main/binary-armhf/Packages
+ 1bb15da739480b0b524132cd338fc2591ad775c2 486 main/binary-armhf/Packages.gz
+ 249fc3b9627a790f596caaadbbf81517e06691ee 133 main/binary-armhf/Release
+SHA256:
+ 042b7a40f88ac26d88419222d64e46f8560404e7be6729d1b52bc129e526d9f2 877 main/binary-armhf/Packages
+ 16a0eef7e0e94219add42149c9d98128c75d017778656db5917a4c42d816fbb6 486 main/binary-armhf/Packages.gz
+ 7b2f5318bf91d32f34ede8d377779da1854383b7faa2d4be8b3733f4d4a6813d 133 main/binary-armhf/Release

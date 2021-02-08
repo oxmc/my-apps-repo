@@ -1,0 +1,30 @@
+Package: count100
+Version: 1.0
+Architecture: armhf
+Essential: no
+Installed-Size: 8192
+Maintainer: https://github.com/Itai-Nelken
+Priority: optional
+Section: custom
+Filename: pool/main/c/count100/count100_1.0_armhf.deb
+Size: 3048
+SHA256: 61f80f2639b18996025d3979c5f6fb81712689e3564f55ed68aa82d1966c782e
+SHA1: d43b2d34bfdd3a439f4c36518c2128dd5bf61e9e
+MD5sum: b902aad1166f64d679aa8573c68a1941
+Description: count to 100 and back.
+
+Package: hello-world
+Version: 1.0
+Architecture: armhf
+Essential: no
+Installed-Size: 7988
+Maintainer: https://github.com/Itai-Nelken
+Priority: optional
+Section: custom
+Filename: pool/main/h/hello-world/hello-world_1.0_armhf.deb
+Size: 2948
+SHA256: d9a1d7bbf1590c34844884b4920bbb329cf0ff342473783a1098dd53313b55e9
+SHA1: 2fe019fb03f5ce04a6c2d585c88be50ad54a674b
+MD5sum: b69c30ad9f3acf60e384f8eee16fefea
+Description: Print 'Hello, World!' on the screen.
+
