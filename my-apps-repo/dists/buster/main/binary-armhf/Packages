@@ -28,3 +28,18 @@ SHA1: 7e4da529f557b63973d5f9eb58ac5eafda8b0dad
 MD5sum: a466080b608c4107146b526102fb4217
 Description: Print 'Hello, World!' on the screen.
 
+Package: qemu2deb
+Version: 0.3.0
+Architecture: armhf
+Essential: no
+Installed-Size: 13048
+Maintainer: https://github.com/Itai-Nelken
+Priority: optional
+Section: custom
+Filename: pool/main/q/qemu2deb/qemu2deb_0.3.0_armhf.deb
+Size: 4072
+SHA256: b6bb6d9a9fc70fe2a48df4224e9ce5fed33e709b8e3afd1508fe10b854eb1712
+SHA1: 6ccf134f57e4d92137de9e7f9d5b13ab5bc2d50a
+MD5sum: da5abb040d487de3f948c938fc194b40
+Description: compiling/packaging/installing qemu made easier than ever on the RaspberryPi (armhf OS's only).
+
