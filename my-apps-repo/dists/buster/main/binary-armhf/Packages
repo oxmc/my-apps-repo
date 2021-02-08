@@ -23,8 +23,8 @@ Priority: optional
 Section: custom
 Filename: pool/main/h/hello-world/hello-world_1.0_armhf.deb
 Size: 2948
-SHA256: d9a1d7bbf1590c34844884b4920bbb329cf0ff342473783a1098dd53313b55e9
-SHA1: 2fe019fb03f5ce04a6c2d585c88be50ad54a674b
-MD5sum: b69c30ad9f3acf60e384f8eee16fefea
+SHA256: b43c4fa11946af16d1e2ac99aae30a32eecaa832c90bcc89a975878907b9663b
+SHA1: 7e4da529f557b63973d5f9eb58ac5eafda8b0dad
+MD5sum: a466080b608c4107146b526102fb4217
 Description: Print 'Hello, World!' on the screen.
 
