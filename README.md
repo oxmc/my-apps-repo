@@ -7,7 +7,7 @@ wget -qO- https://raw.githubusercontent.com/Itai-Nelken/my-apps-repo/main/add-re
 ```
 ## To remove the repo
 1) `sudo nano /etc/apt/sources.list`
-2) delete this line: `deb [trusted=yes]  https://itai-nelken.github.io/my-apps-repo/my-apps-repo/ buster main`
+2) delete this line: `deb [trusted=yes]  https://itai-nelken.github.io/my-apps-repo/my-apps-repo/ buster main`<br>
 DONE!
 
 ## List of apps
