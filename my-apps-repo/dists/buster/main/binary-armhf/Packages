@@ -28,6 +28,21 @@ SHA1: 7e4da529f557b63973d5f9eb58ac5eafda8b0dad
 MD5sum: a466080b608c4107146b526102fb4217
 Description: Print 'Hello, World!' on the screen.
 
+Package: pi-temp
+Version: 1.0
+Architecture: all
+Essential: no
+Installed-Size: 233
+Maintainer: https://github.com/Itai-Nelken/
+Priority: optional
+Section: custom
+Filename: pool/main/p/pi-temp/pi-temp_1.0_all.deb
+Size: 1380
+SHA256: f0762d4bb9c6061e388213d501971ce21d2a94b0d3e56f346b28e4981a0e669a
+SHA1: cfe36efaf9ff27ff6e7914b3b7c86d650c487d64
+MD5sum: c2f68922a271a87eef9a08f021ebbf59
+Description: print CPU temperature of your pi.
+
 Package: qemu2deb
 Version: 0.3.0
 Architecture: armhf

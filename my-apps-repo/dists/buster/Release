@@ -2,19 +2,19 @@ Origin: Itai-Nelken
 Label: Itai-Nelken Github
 Suite: stable
 Codename: buster
-Date: Mon, 08 Feb 2021 23:01:14 UTC
+Date: Tue, 09 Feb 2021 08:26:35 UTC
 Architectures: armhf
 Components: main
 Description: my apps and programs hosted on my github
 MD5Sum:
- e20335abac6854d8909d61606abbae3c 1384 main/binary-armhf/Packages
- ae5f9c7cb8e5803b2582f89d8f6abd31 679 main/binary-armhf/Packages.gz
+ 61f50685abe0dfd7b1b145ebf911fc96 1815 main/binary-armhf/Packages
+ c558af7476a6bf2d0c4ad1f0f2f54ed8 835 main/binary-armhf/Packages.gz
  afa9395641ae736e873f08ac4bf05696 152 main/binary-armhf/Release
 SHA1:
- d4b5a375365cb18366c0fc97a26a687184b203e5 1384 main/binary-armhf/Packages
- 96764e387d0c9d2f5cd1078dd2016ebb60ae73e4 679 main/binary-armhf/Packages.gz
+ 86b88bd6b1b473433bb3f19566289b3acc9dd29c 1815 main/binary-armhf/Packages
+ 53b73945f34215a5620fe9f62913b2ba44cedb24 835 main/binary-armhf/Packages.gz
  818850ee62314f4720693871b919679b176e9f0f 152 main/binary-armhf/Release
 SHA256:
- 4bc81e9ca6648b90a41290ac43b7ce44e65cdd6ae4bf1291439457436bc99ac3 1384 main/binary-armhf/Packages
- 941d91ee1df33edaa08169b160cde9d8247bb449de45e1b12ca79a7d753a1e12 679 main/binary-armhf/Packages.gz
+ 9368357391b6194c117840d7da8ce6f1c9afee4c1708c47949f3fa4516771020 1815 main/binary-armhf/Packages
+ a34e4445a6382880a21423d7fe13e1ac23e2494bdc4267f7522cbafb748442db 835 main/binary-armhf/Packages.gz
  31559a9c602cfe0a561926a40481e156a75afaece64bf32b29d2fbec7e2b9586 152 main/binary-armhf/Release
