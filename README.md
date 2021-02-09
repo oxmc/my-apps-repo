@@ -15,3 +15,4 @@ DONE!
 - hello-world
 - count100
 - qemu2deb
+- pi-temp
