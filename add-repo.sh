@@ -1,7 +1,8 @@
 #!/bin/bash
 
 echo "adding repo..."
-echo "deb https://itai-nelken.github.io/files/debian ./" | tee /etc/apt/trusted.gpg.d/itai > /dev/null
+echo "deb https://itai-nelken.github.io/files/debian ./" | tee /etc/apt/trusted.gpg.d/itai.gpg > /dev/null
+sudo mv /etc/apt/trusted.gpg.d/itai.gpg /etc/apt/trusted.gpg.d/itai
 echo "running apt update..."
 sudo apt update
 echo -e "$(tput setaf 2)DONE!$(tput sgr 0)"
